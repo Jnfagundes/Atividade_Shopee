@@ -16,5 +16,6 @@
     "url": "https://github.com/Jnfagundes/Atividade_Shopee/issues"
   },
   "homepage": "https://github.com/Jnfagundes/Atividade_Shopee#readme",
-  "description": ""
+  "description": "",
+  "type": "module"
 }
